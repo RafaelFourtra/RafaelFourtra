@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<p align="left">My name is Rafael Fourtra. and I'm a Web & Mobile developer from Jakarta, Indonesia.</p>
+<p align="left">I’m Rafael Fourtra, a Web and Mobile Developer from Jakarta, Indonesia. I’m passionate about building innovative applications that deliver great user experiences. Let's connect and create something amazing!</p>
 
 ###
 
